@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+validate.molecularlabph.com	TRUE	/	FALSE	1999999999	_detoxi_lab_validate_session	K3BIWFUpkOM6s5F9hehtLOCjclCVwuRRIHTfPm9M6GGfXHmjeQxo0d2RlwHvxbWHIyqwqpzc7k7KGXPnbGKOIcCs2vGfcPziWsvHgOPANinPneu11WKmM%2FcMMoatoks13k9zw8mgPBjZw%2FGK5bvA7lXmaVEFh8fEHRcg0FecKzKMXzbQ1aiGYguMCKVRNPLZUI1CZ%2B%2BkpEBMoKbkUMIk%2BEZtrjWwd%2F7vQAJwclvdwYgllvuh2Rk%2BI5NqVAhBR8LfGIJ%2BTHsNPMFup2BiHhDSMaZX0EEHqF%2Fyy7d1%2BfyZBQK7tStz--GoJoBrb%2Bz34h%2Fviu--3dwt5GgVrRZAyDJIxoSQhQ%3D%3D
+
